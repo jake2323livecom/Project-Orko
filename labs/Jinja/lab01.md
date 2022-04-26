@@ -24,7 +24,7 @@ interfaces:
  - PortChannel40
 ```
 
-**This data structure consists of a **list** called 'interfaces' with 3 items.
+**This data structure consists of a *list* called 'interfaces' with 3 items.**
 
 ##### Step 3 - Create the initial template
 
